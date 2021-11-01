@@ -8,7 +8,7 @@ conda create -n fmask python-fmask
 conda activate fmask
 ```
 # Usage
-```
+```bash
 git clone https://github.com/XavierJiezou/python-fmask-algorithm.git
 git cd python-fmask-algorithm
 python main.py inputdir outfile
@@ -21,7 +21,7 @@ python main.py LC81230322021250LGN00 cloud.jpg
 ```
 python main.py S2B_MSIL1C_20180918T235239_N0206_R130_T56JNQ_20180919T011001.SAFE cloud.jpg
 ```
-# Color-maps
+# Color-Maps
 |VALUE|MEANING|COLOR|
 |:---:|:-----:|:---:|
 |  0  | null  |  \  |
