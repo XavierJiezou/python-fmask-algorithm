@@ -9,10 +9,18 @@ conda activate fmask
 ```
 # Usage
 ```
-
+git clone https://github.com/XavierJiezou/python-fmask-algorithm.git
+git cd python-fmask-algorithm
+python main.py inputdir outfile
 ```
 ## USGS Landsat
+```
+python main.py LC81230322021250LGN00 cloud.jpg
+```
 ## Sentinel2
+```
+python main.py S2B_MSIL1C_20180918T235239_N0206_R130_T56JNQ_20180919T011001.SAFE cloud.jpg
+```
 # Color-maps
 |VALUE|MEANING|COLOR|
 |:---:|:-----:|:---:|
