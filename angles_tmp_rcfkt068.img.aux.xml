@@ -1,0 +1,118 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-133</HistMin>
+        <HistMax>181</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>30633840|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">RLE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES">500</MDI>
+      <MDI key="STATISTICS_HISTOBINFUNCTION">linear</MDI>
+      <MDI key="STATISTICS_MAXIMUM">181.0</MDI>
+      <MDI key="STATISTICS_MEAN">23.73500088065625</MDI>
+      <MDI key="STATISTICS_MEDIAN">-133</MDI>
+      <MDI key="STATISTICS_MINIMUM">-133.0</MDI>
+      <MDI key="STATISTICS_MODE">-133</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">156.99977635484478</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>Layer_2</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>22.5</HistMax>
+        <BucketCount>23</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1718312|3436881|3437634|3438891|3440650|3442919|3445688|3448973|3452754|3457057|3461867|3467196|3473035|3468403|3196203|2806594|2414796|2020564|1623634|1223775|820713|414208|53694</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">RLE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES">500</MDI>
+      <MDI key="STATISTICS_HISTOBINFUNCTION">direct</MDI>
+      <MDI key="STATISTICS_MAXIMUM">22.0</MDI>
+      <MDI key="STATISTICS_MEAN">9.045862039350464</MDI>
+      <MDI key="STATISTICS_MEDIAN">9</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.0</MDI>
+      <MDI key="STATISTICS_MODE">12</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">5.417609198930097</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>Layer_3</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>253.5</HistMin>
+        <HistMax>263.5</HistMax>
+        <BucketCount>10</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1183669|4714125|8044211|8736239|8736219|8736237|8736226|7518322|4031897|727296</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">RLE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES">500</MDI>
+      <MDI key="STATISTICS_HISTOBINFUNCTION">direct</MDI>
+      <MDI key="STATISTICS_MAXIMUM">263.0</MDI>
+      <MDI key="STATISTICS_MEAN">258.40588960838534</MDI>
+      <MDI key="STATISTICS_MEDIAN">258</MDI>
+      <MDI key="STATISTICS_MINIMUM">254.0</MDI>
+      <MDI key="STATISTICS_MODE">257</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">2.1632986428160415</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>Layer_4</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>64.5</HistMin>
+        <HistMax>70.5</HistMax>
+        <BucketCount>6</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>4156435|14001991|19349771|16696262|6828384|131598</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">RLE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES">500</MDI>
+      <MDI key="STATISTICS_HISTOBINFUNCTION">direct</MDI>
+      <MDI key="STATISTICS_MAXIMUM">70.0</MDI>
+      <MDI key="STATISTICS_MEAN">67.13787362170133</MDI>
+      <MDI key="STATISTICS_MEDIAN">67</MDI>
+      <MDI key="STATISTICS_MINIMUM">65.0</MDI>
+      <MDI key="STATISTICS_MODE">67</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">1.1048218165607164</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
