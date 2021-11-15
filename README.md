@@ -15,7 +15,7 @@ conda activate fmask
 
 ```bash
 git clone https://github.com/XavierJiezou/python-fmask-algorithm.git
-git cd python-fmask-algorithm
+cd python-fmask-algorithm
 python main.py inputdir outfile
 ```
 
