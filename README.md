@@ -1,6 +1,6 @@
 # Python-Fmask-Algorithm
 
-Python modules that implement the `fmask` algorithm.(Refer to: [python-fmask](https://www.pythonfmask.org/))
+Python modules that implement the `fmask` algorithm. (Refer to: [python-fmask](https://www.pythonfmask.org/))
 
 ## Install
 
